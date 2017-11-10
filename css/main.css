@@ -12,6 +12,14 @@
   top: 20vh;
 }
 
+.row2 {
+height: 118px;
+}
+
+input {
+  position: relative;
+  bottom: 51px;
+}
 
 .row1 .celda ,.row2 .celda  ,.row3 .celda {
   width: 100px;
